@@ -1,0 +1,8 @@
+name: Reputation
+version: 1.0
+api-version: 1.16
+main: com.base.main.Reputation
+author: Unfairbody96
+commands:
+  rep:
+    description: base main command
